@@ -1,0 +1,34 @@
+# CANDIDATI E LISTE ELETTORALI
+#C; Codice Candidato; Nome; Cognome; Data di Nascita (Formato: gg/mm/aaaa o NULL)
+#L; Codice Lista; Nome
+
+# ESEMPIO
+#C; ABC00; Nome1; Cognome1; 01/01/1970
+#C; ABC01; Nome2; Cognome2; NULL
+#C; CF314; Pi; Greco; 14/03/1970
+#L; Nome Lista Elettorale
+#------------------------------------------------------
+
+C; A101; Javier; Bardem; 01/03/1969
+C; A102; Luis; Tosar; 13/10/1971
+C; A103; Javier; Cámara; 19/01/1967
+C; A104; Antonio; de la Torre; 18/01/1968
+C; A105; Eduard; Fernández; 25/08/1964
+#------------------------------------------------------
+C; C111; Taylor; Swift; 13/12/1989
+C; C112; Dua; Lipa; 22/08/1995
+C; C113; Billie; Eilish; 18/12/2001
+C; C114; Amy; Winehouse; 14/09/1983
+C; C115; Katy; Perry; 25/10/1984
+#------------------------------------------------------
+C; G121; The Beatles;;01/01/1960
+C; G122; The Rolling Stones;;01/01/1962
+C; G123; U2;;01/01/1976
+C; G124; Queen;;01/01/1970
+C; G125; Dire Straits;;01/01/1977
+#------------------------------------------------------
+C; P131; Francisco; Goya; 01/10/2022
+C; P132; Diego; Velazquez; 01/01/2022
+C; P133; Pablo; Picasso; 01/01/2022
+C; P134; Salvador; Dalí; 01/01/2022
+C; P135; Joaquín; Sorolla; 01/01/2022

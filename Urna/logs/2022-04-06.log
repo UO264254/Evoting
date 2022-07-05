@@ -1,0 +1,16 @@
+Wed Apr 06 10:25:14 CEST 2022 - [INFO] L'urna è stata avviata.
+Wed Apr 06 10:25:18 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Apr 06 10:25:19 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Apr 06 10:25:23 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Apr 06 10:26:32 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Apr 06 10:26:56 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Apr 06 10:27:54 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Apr 06 10:27:54 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Apr 06 10:27:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Apr 06 10:27:56 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Apr 06 10:33:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Apr 06 10:33:16 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Apr 06 10:33:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Apr 06 10:33:17 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.

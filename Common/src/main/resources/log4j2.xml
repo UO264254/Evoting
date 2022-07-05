@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <File name="FicheroAppend" fileName="c:/logs/all.log" append="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+        <File name="Fichero" fileName="all.log" append="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="urna" level="debug" additivity="false">
+            <AppenderRef ref="Fichero"/>
+        </Logger>
+        <Logger name="postazione" level="debug" additivity="false">
+            <AppenderRef ref="FicheroAppend"/>
+            <AppenderRef ref="Fichero"/>
+        </Logger>
+         <Logger name="seggio" level="debug" additivity="false">
+         	<AppenderRef ref="FicheroAppend"/>
+            <AppenderRef ref="Fichero"/>
+        </Logger>
+         <Logger name="controller" level="debug" additivity="false">
+         	<AppenderRef ref="FicheroAppend"/>
+            <AppenderRef ref="Fichero"/>
+        </Logger>
+        <Root level="debug">
+        	<AppenderRef ref="FicheroAppend"/>
+            <AppenderRef ref="Fichero"/>
+        </Root>
+    </Loggers>
+</Configuration>

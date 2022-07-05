@@ -1,0 +1,1 @@
+update secureballot.procedure p set p.web=1 where p.code=1;

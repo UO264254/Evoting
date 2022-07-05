@@ -1,0 +1,33 @@
+# SCHEDE
+#C; Codice; Titolo; Descrizione; Num. Preferenze; Cod. Candidato 1 [: Cod. Lista]; [...] ; Cod. Candidato N [: Cod. Lista]
+#O; Codice; Titolo; Descrizione; Num. Preferenze; Opzione 1; [...] ; Opzione N
+
+# ESEMPIO
+#C; 1; Scheda 1; Scheda 1; 3; ABC00; ABC01 : 1; ABC02 : 2
+#C; 2; Scheda 2; Descrizione; 1; CF314 : 3
+#O; 3; Scheda 3; Referendum; 1; Sì; No
+#------------------------------------------------------
+#Preguntas de opciones 1 maximo eligible
+#------------------------------------------------------
+O; 1; ORGANIZACION 1; El curso ha estado bien organizado; 1; PESIMO; MALO; BIEN; OPTIMO
+O; 2; ORGANIZACION 2; El num. de alumnos ha sido adecuado; 1; PESIMO; MALO; BIEN; OPTIMO
+O; 3; Tiempo 1; Tiempo suficiente; 1; PESIMO; MALO; BIEN; OPTIMO
+O; 4; Tiempo 2; Horario adecuado; 1; PESIMO; MALO; BIEN; OPTIMO
+O; 5; Instalaciones 1; Aula apropiada; 1; PESIMO; MALO; BIEN; OPTIMO
+O; 6; Instalaciones 2; Medios adecuados; 1; PESIMO; MALO; BIEN; OPTIMO
+#------------------------------------------------------
+#Preguntas de opciones >1 maximo eligible
+#------------------------------------------------------
+O; 7; Cursos 1; Marque los cursos en los que ha participado; 3; Gestion de tramites; Liderazgo; Hablar en publico; Marketing
+O; 8; Cursos 2; Desde que lugar asistes al curso; 2; Oficina; Casa
+O; 9; Cine 1; Elija sus 3 preferidas; 3; Forrest Gump; About Time; Little Miss Sunshine; Seven; El amor en su lugar
+#------------------------------------------------------
+#Candidatos, 1 maximo
+#------------------------------------------------------
+C; 10; Actor favorito; Elija su actor favorito; 1; A101; A102; A103; A104; A105
+C; 11; Cantante preferida; Elija su cantante favorita; 1; C111; C112; C113; C114; C115
+#------------------------------------------------------
+#Candidatos, >1 maximo
+#------------------------------------------------------
+C; 12; Grupo de rock preferido; Elija los 3 grupos de rock mas representativos; 3; G121; G122; G123; G124; G125
+C; 13; Pintor preferido; Seleccione sus 2 pintores favoritos; 2; P131; P132; P133; P134; P135

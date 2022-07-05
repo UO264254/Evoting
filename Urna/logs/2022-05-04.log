@@ -1,0 +1,430 @@
+Wed May 04 15:38:58 CEST 2022 - [INFO] La urna está en marcha.
+Wed May 04 15:39:03 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1] está intentando iniciar sesión.
+Wed May 04 15:39:04 CEST 2022 - [SUCCESS] El usuario [Nombre de usuario: U1] ha completado las operaciones de inicio de sesión
+Wed May 04 15:39:09 CEST 2022 - [SUCCESS] Sesión [ID: 1] perteneciente al procedimiento [ID:  1] iniciado.
+Wed May 04 15:39:22 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 15:39:23 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 15:39:23 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:39:23 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 15:39:40 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 15:39:40 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 15:39:40 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:39:40 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 15:40:23 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:40:23 CEST 2022 - [WARNING] Devueltos 0 resultados al terminal [IP: 127.0.0.1, tipo: Station]: No se encontraron resultados
+Wed May 04 15:40:25 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:40:26 CEST 2022 - [WARNING] Devueltos 0 resultados al terminal [IP: 127.0.0.1, tipo: Station]: No se encontraron resultados
+Wed May 04 15:40:56 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:40:56 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 15:41:09 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:41:09 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 15:41:58 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 15:41:58 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 15:52:00 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 15:52:00 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 15:52:00 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:52:01 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 15:52:17 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:52:17 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 15:54:51 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 15:54:52 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 15:54:52 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:54:52 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 15:56:12 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 15:56:12 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 15:56:12 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:56:13 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 15:56:19 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:56:19 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 15:57:06 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 15:57:19 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 15:57:20 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 15:57:20 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 15:57:20 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 15:57:26 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 15:57:27 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:00:23 CEST 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Station].
+Wed May 04 16:00:32 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:00:33 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:00:33 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:00:33 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:00:40 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:00:40 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:00:51 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:00:51 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:00:51 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:00:51 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:08:34 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:08:34 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:08:34 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:08:35 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:08:49 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:08:49 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:09:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:09:29 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:09:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:09:30 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:15:02 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:15:02 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:15:03 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:15:03 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:15:10 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:15:10 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:16:15 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 16:16:35 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:16:36 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:16:36 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:16:36 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:16:52 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:16:52 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:17:13 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:17:14 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:17:14 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:17:14 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:18:18 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 16:18:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:18:29 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:18:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:18:29 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:18:36 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:18:36 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:20:28 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 16:20:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:20:50 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:20:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:20:50 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:20:57 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:20:58 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:21:13 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:21:13 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:21:13 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:21:13 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:42:39 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:42:39 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:49:22 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 16:49:22 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 16:52:38 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:52:38 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:52:38 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:52:38 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:52:54 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:52:54 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:53:33 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 16:53:33 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 16:54:14 CEST 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Post].
+Wed May 04 16:54:46 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:54:47 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:54:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:54:47 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:54:54 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:54:54 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:55:03 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:55:03 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:55:03 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:55:03 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:55:15 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 16:55:23 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:55:23 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:55:23 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:55:24 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:55:30 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:55:31 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:56:17 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 16:56:18 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 16:57:12 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:57:12 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:57:12 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:57:12 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 16:57:18 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:57:18 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:57:35 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 16:57:35 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 16:57:35 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:57:35 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 16:57:41 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 16:57:42 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 16:58:03 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 16:58:04 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 16:58:12 CEST 2022 - [INFO] L'urna è stata spenta.
+Wed May 04 16:58:18 CEST 2022 - [INFO] La urna está en marcha.
+Wed May 04 16:58:47 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1] está intentando iniciar sesión.
+Wed May 04 16:58:48 CEST 2022 - [SUCCESS] El usuario [Nombre de usuario: U1] ha completado las operaciones de inicio de sesión
+Wed May 04 16:58:52 CEST 2022 - [SUCCESS] Sesión [ID: 1] perteneciente al procedimiento [ID:  1] iniciado.
+Wed May 04 16:58:58 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 16:58:58 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 16:58:58 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 16:58:58 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:08:39 CEST 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Station].
+Wed May 04 17:08:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:08:47 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:08:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:08:48 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:09:17 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 17:09:18 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 17:09:18 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:09:18 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 17:09:28 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:09:29 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:10:54 CEST 2022 - [INFO] L'urna è stata spenta.
+Wed May 04 17:12:45 CEST 2022 - [INFO] La urna está en marcha.
+Wed May 04 17:12:51 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1] está intentando iniciar sesión.
+Wed May 04 17:12:51 CEST 2022 - [SUCCESS] El usuario [Nombre de usuario: U1] ha completado las operaciones de inicio de sesión
+Wed May 04 17:13:11 CEST 2022 - [SUCCESS] Sesión [ID: 1] perteneciente al procedimiento [ID:  1] iniciado.
+Wed May 04 17:13:22 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:13:22 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:13:22 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:13:23 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:13:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:13:29 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:14:40 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:14:41 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:14:41 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:14:41 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:14:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:14:47 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:16:05 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:16:05 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:16:05 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:16:06 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:16:12 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:16:12 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:17:13 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 17:21:38 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:21:38 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:21:38 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:21:39 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:21:46 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:21:46 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:22:07 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 17:22:07 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 17:22:07 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:22:07 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 17:22:35 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 17:22:56 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:22:57 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:22:57 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:22:57 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:23:15 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 17:23:15 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 17:23:15 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:23:16 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 17:23:19 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:23:19 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:23:57 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 17:23:58 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 17:25:43 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 17:25:43 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 17:25:43 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:25:43 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 17:25:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 17:25:50 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 17:26:05 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 17:26:06 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 17:26:06 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 17:26:06 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 17:26:30 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 17:26:30 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 17:26:43 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 13]
+Wed May 04 17:26:44 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 13] se han almacenado correctamente.
+Wed May 04 18:19:23 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 13] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:19:24 CEST 2022 - [ERROR] La registrazione dell'utente [ID: 13], richiesta dal seggio [IP: 127.0.0.1], NON è andata a buon fine: Impossibile registrare il nuovo utente: l'ID 13 esiste già
+Wed May 04 18:19:29 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 14] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:19:30 CEST 2022 - [SUCCESS] El registro del usuario [ID: 14], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:19:36 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:19:36 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:20:15 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 18:24:55 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:24:55 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:24:55 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:24:56 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:25:01 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:25:01 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:25:27 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:25:27 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:25:27 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:25:28 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:25:56 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 18:25:56 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 18:26:06 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 18:26:09 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 18:29:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:29:50 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:29:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:29:51 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:30:00 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:30:01 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:30:45 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:30:45 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:30:45 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:30:46 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:31:27 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 18:31:27 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 18:31:36 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 14]
+Wed May 04 18:31:37 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 14] se han almacenado correctamente.
+Wed May 04 18:32:04 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 15] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:32:04 CEST 2022 - [SUCCESS] El registro del usuario [ID: 15], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:32:06 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:32:06 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:35:32 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:35:32 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:35:32 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:35:33 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:35:53 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:35:53 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:35:53 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:35:53 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:36:03 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:36:03 CEST 2022 - [SUCCESS] Devueltos 2 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:38:33 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 18:38:34 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 18:38:47 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 15]
+Wed May 04 18:38:48 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 15] se han almacenado correctamente.
+Wed May 04 18:39:21 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 16] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:39:21 CEST 2022 - [SUCCESS] El registro del usuario [ID: 16], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:39:30 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:39:30 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:42:37 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:42:37 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:43:05 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 18:44:45 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:44:45 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:44:45 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:44:45 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:45:01 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:45:01 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:45:01 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:45:01 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:45:09 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:45:09 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:45:55 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 18:45:55 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 18:46:05 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 16]
+Wed May 04 18:46:06 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 16] se han almacenado correctamente.
+Wed May 04 18:46:26 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:46:27 CEST 2022 - [WARNING] Devueltos 0 resultados al terminal [IP: 127.0.0.1, tipo: Station]: No se encontraron resultados
+Wed May 04 18:46:38 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 17] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:46:38 CEST 2022 - [SUCCESS] El registro del usuario [ID: 17], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:46:41 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:46:41 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:50:32 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 18:50:44 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:50:44 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:50:44 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:50:44 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:50:56 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:50:56 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:52:58 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:52:58 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:52:58 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:52:59 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:53:17 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:53:17 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:53:17 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:53:18 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:53:45 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 17] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:53:45 CEST 2022 - [ERROR] La registrazione dell'utente [ID: 17], richiesta dal seggio [IP: 127.0.0.1], NON è andata a buon fine: Impossibile registrare il nuovo utente: l'ID 17 esiste già
+Wed May 04 18:53:50 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 18] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:53:51 CEST 2022 - [SUCCESS] El registro del usuario [ID: 18], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:54:00 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:54:01 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:54:46 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 18:54:48 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 18:55:26 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 18:55:26 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 18:55:26 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:55:26 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 18:55:31 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:55:31 CEST 2022 - [SUCCESS] Devueltos 7 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 18:56:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 18:56:50 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 18:56:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 18:56:51 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 18:57:27 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 18:57:27 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 18:57:39 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 18]
+Wed May 04 18:57:40 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 18] se han almacenado correctamente.
+Wed May 04 18:58:05 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 19] desde la mesa [IP: 127.0.0.1].
+Wed May 04 18:58:05 CEST 2022 - [SUCCESS] El registro del usuario [ID: 19], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 18:58:07 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 18:58:07 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:06:41 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 19:06:44 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 19:08:35 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 19:08:35 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 19:08:35 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:08:35 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 19:09:08 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 20] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:09:08 CEST 2022 - [SUCCESS] El registro del usuario [ID: 20], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:09:11 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:09:11 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:09:25 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 19:09:25 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 19:09:25 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:09:25 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 19:09:59 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 19:10:00 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 19:10:09 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 19:10:09 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 19:10:09 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:10:09 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 19:10:20 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:10:20 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:11:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 19:11:29 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 19:11:29 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:11:30 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 19:12:10 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:12:10 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:12:19 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 20]
+Wed May 04 19:12:20 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 20] se han almacenado correctamente.
+Wed May 04 19:12:52 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 21] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:12:52 CEST 2022 - [SUCCESS] El registro del usuario [ID: 21], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:12:55 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:12:55 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:17:07 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Station] está OFFLINE.
+Wed May 04 19:17:30 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.
+Wed May 04 19:17:42 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] requiere que la urna se autentifique.
+Wed May 04 19:17:42 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Station] y lanzó un nuevo desafío.
+Wed May 04 19:17:42 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:17:43 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Station] ha tenido éxito.
+Wed May 04 19:17:52 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Wed May 04 19:17:52 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Wed May 04 19:17:52 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Wed May 04 19:17:53 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Wed May 04 19:18:00 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:18:00 CEST 2022 - [SUCCESS] Devueltos 3 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:18:31 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:18:32 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:18:42 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 21]
+Wed May 04 19:18:43 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 21] se han almacenado correctamente.
+Wed May 04 19:19:07 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 22] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:19:07 CEST 2022 - [SUCCESS] El registro del usuario [ID: 22], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:19:09 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:19:09 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:19:38 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:19:38 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:23:30 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 22]
+Wed May 04 19:23:30 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 22] se han almacenado correctamente.
+Wed May 04 19:24:25 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 23] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:24:25 CEST 2022 - [SUCCESS] El registro del usuario [ID: 23], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:24:27 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:24:27 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:25:13 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:25:13 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:25:30 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 23]
+Wed May 04 19:25:30 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 23] se han almacenado correctamente.
+Wed May 04 19:26:20 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 25] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:26:21 CEST 2022 - [SUCCESS] El registro del usuario [ID: 25], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:26:25 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:26:25 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:27:01 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:27:01 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:27:13 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 25]
+Wed May 04 19:27:14 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.1], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: 25] se han almacenado correctamente.
+Wed May 04 19:27:47 CEST 2022 - [INFO] Recibo de solicitud de registro de un nuevo usuario [ID: 26] desde la mesa [IP: 127.0.0.1].
+Wed May 04 19:27:48 CEST 2022 - [SUCCESS] El registro del usuario [ID: 26], solicitada por la mesa [IP: 127.0.0.1] ha tenido éxito.
+Wed May 04 19:27:50 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Station] pidió buscar votantes.
+Wed May 04 19:27:50 CEST 2022 - [SUCCESS] Devueltos 1 resultados en el terminal [IP: 127.0.0.1, tipo: Station].
+Wed May 04 19:28:20 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Wed May 04 19:28:20 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Wed May 04 19:38:38 CEST 2022 - [WARNING] El terminal [IP: /127.0.0.1, tipo: Post] está OFFLINE.

@@ -1,0 +1,28 @@
+Sat Mar 19 16:31:43 CET 2022 - [INFO] L'urna è stata avviata.
+Sat Mar 19 16:31:51 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Sat Mar 19 16:31:52 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Sat Mar 19 16:31:56 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Sat Mar 19 16:31:59 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Sat Mar 19 16:31:59 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Sat Mar 19 16:31:59 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Sat Mar 19 16:31:59 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Sat Mar 19 16:32:11 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Sat Mar 19 16:32:11 CET 2022 - [SUCCESS] Restituiti 1 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Sat Mar 19 16:33:00 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Sat Mar 19 16:33:00 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Sat Mar 19 16:33:00 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Sat Mar 19 16:33:01 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Sat Mar 19 16:33:08 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Post] è tornato OFFLINE.
+Sat Mar 19 16:33:27 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Sat Mar 19 16:33:28 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Sat Mar 19 16:33:28 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Sat Mar 19 16:33:28 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Sat Mar 19 16:34:19 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Sat Mar 19 16:34:19 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Sat Mar 19 16:34:55 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Sat Mar 19 16:34:55 CET 2022 - [SUCCESS] Restituiti 1 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Sat Mar 19 16:37:23 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Sat Mar 19 16:37:24 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Sat Mar 19 16:37:55 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Sat Mar 19 16:37:55 CET 2022 - [SUCCESS] Restituiti 1 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Sat Mar 19 16:38:32 CET 2022 - [INFO] L'urna è stata spenta.

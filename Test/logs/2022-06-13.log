@@ -1,0 +1,63 @@
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 18:54:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:01:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:03:04 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Mon Jun 13 19:03:04 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Mon Jun 13 19:03:04 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Mon Jun 13 19:03:09 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Mon Jun 13 19:03:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:05 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:05 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Mon Jun 13 19:05:05 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Mon Jun 13 19:05:05 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Mon Jun 13 19:05:09 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Mon Jun 13 19:05:09 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:09 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Mon Jun 13 19:05:09 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Mon Jun 13 19:05:10 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test]
+Mon Jun 13 19:05:10 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test] se han almacenado correctamente.
+Mon Jun 13 19:05:10 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:11 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:20 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:05:20 CEST 2022 - [INFO] El terminal [IP: 127.0.0.5, tipo: Station] requiere que la urna se autentifique.
+Mon Jun 13 19:05:20 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.5, tipo: Station] y lanzó un nuevo desafío.
+Mon Jun 13 19:05:20 CEST 2022 - [INFO] El terminal [IP: 127.0.0.5, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Mon Jun 13 19:05:20 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.5, tipo: Station] ha tenido éxito.
+Mon Jun 13 19:05:20 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:39 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:39 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Mon Jun 13 19:14:39 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Mon Jun 13 19:14:39 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Mon Jun 13 19:14:43 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Mon Jun 13 19:14:43 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:44 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Mon Jun 13 19:14:44 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Mon Jun 13 19:14:44 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test]
+Mon Jun 13 19:14:44 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test] se han almacenado correctamente.
+Mon Jun 13 19:14:44 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:45 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:51 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Jun 13 19:14:51 CEST 2022 - [INFO] El terminal [IP: 127.0.0.5, tipo: Station] requiere que la urna se autentifique.
+Mon Jun 13 19:14:51 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.5, tipo: Station] y lanzó un nuevo desafío.
+Mon Jun 13 19:14:51 CEST 2022 - [INFO] El terminal [IP: 127.0.0.5, tipo: Station] autentificó la urna y respondió a su desafío de autentificarse.
+Mon Jun 13 19:14:51 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.5, tipo: Station] ha tenido éxito.
+Mon Jun 13 19:14:51 CEST 2022 - [INFO] L'urna è stata spenta.

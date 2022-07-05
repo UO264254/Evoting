@@ -1,0 +1,22 @@
+# CANDIDATI E LISTE ELETTORALI
+#C; Codice Candidato; Nome; Cognome; Data di Nascita (Formato: gg/mm/aaaa o NULL)
+#L; Codice Lista; Nome
+
+# ESEMPIO
+#C; ABC00; Nome1; Cognome1; 01/01/1970
+#C; ABC01; Nome2; Cognome2; NULL
+#C; CF314; Pi; Greco; 14/03/1970
+#L; Nome Lista Elettorale
+#------------------------------------------------------
+C;C31L1;Pablo;Caso;01/01/1970
+C;C32L1;Sara;Caramazana;07/04/1970
+C;C33L1;Pichin;Pichon;14/03/1970
+L;31;Lista Electoral 1
+C;C31L2;Paula;Alvarez;01/01/1970
+C;C32L2;Carla;Alvarez;07/04/1970
+C;C33L2;Varo;Court;14/03/1970
+L;32;Lista Electoral 2
+C;C31L3;Rosa;Barri;01/01/1970
+C;C32L3;Luis;Fdez;07/04/1970
+C;C33L3;Carlos Calongs;Lisi;14/03/1970
+L;33;Lista Electoral 3

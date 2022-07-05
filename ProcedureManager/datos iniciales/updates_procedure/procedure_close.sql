@@ -1,0 +1,1 @@
+update secureballot.procedure p set p.ends = TIMESTAMPADD(day,10,p.starts) where p.code=1

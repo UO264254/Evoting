@@ -1,0 +1,13 @@
+# SCHEDE
+#C; Codice; Titolo; Descrizione; Num. Preferenze; Cod. Candidato 1 [: Cod. Lista]; [...] ; Cod. Candidato N [: Cod. Lista]
+#O; Codice; Titolo; Descrizione; Num. Preferenze; Opzione 1; [...] ; Opzione N
+
+# ESEMPIO
+#C; 1; Scheda 1; Scheda 1; 3; ABC00; ABC01 : 1; ABC02 : 2
+#C; 2; Scheda 2; Descrizione; 1; CF314 : 3
+#O; 3; Scheda 3; Referendum; 1; Sì; No
+#------------------------------------------------------
+C;1;Scheda1;Desc scheda 1;3;C1L1;C3L2:2;C2L3
+C;2;Scheda2;Desc scheda 2;1;C1L3:3
+O;3;Scheda3;Desc scheda 3;1;SI;NO
+O;4;Scheda4;Desc scheda 4;1;SI;NO

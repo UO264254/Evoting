@@ -1,0 +1,24 @@
+Mon Apr 18 11:41:19 CEST 2022 - [INFO] L'urna è stata avviata.
+Mon Apr 18 11:41:50 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Mon Apr 18 11:41:51 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Mon Apr 18 11:42:23 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Mon Apr 18 11:42:31 CEST 2022 - [WARNING] Sessione [ID: 1] appartenente alla procedura [ID: 1] terminata.
+Mon Apr 18 11:42:35 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Mon Apr 18 11:42:43 CEST 2022 - [WARNING] L'utente [Username: null] ha effettuato il logout.
+Mon Apr 18 11:42:54 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Mon Apr 18 11:42:54 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Mon Apr 18 11:42:57 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Mon Apr 18 11:43:11 CEST 2022 - [WARNING] L'utente [Username: null] ha effettuato il logout.
+Mon Apr 18 11:43:27 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Mon Apr 18 11:43:27 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Mon Apr 18 11:43:31 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Mon Apr 18 11:43:47 CEST 2022 - [WARNING] L'utente [Username: null] ha effettuato il logout.
+Mon Apr 18 11:49:17 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Apr 18 11:50:08 CEST 2022 - [INFO] L'urna è stata avviata.
+Mon Apr 18 11:50:10 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Apr 18 12:04:01 CEST 2022 - [INFO] L'urna è stata avviata.
+Mon Apr 18 12:04:13 CEST 2022 - [INFO] L'urna è stata spenta.
+Mon Apr 18 12:04:17 CEST 2022 - [INFO] L'urna è stata avviata.
+Mon Apr 18 12:04:23 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Mon Apr 18 12:04:23 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Mon Apr 18 12:07:44 CEST 2022 - [INFO] L'urna è stata spenta.

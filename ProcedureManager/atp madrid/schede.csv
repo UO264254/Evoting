@@ -1,0 +1,13 @@
+# SCHEDE
+#C; Codice; Titolo; Descrizione; Num. Preferenze; Cod. Candidato 1 [: Cod. Lista]; [...] ; Cod. Candidato N [: Cod. Lista]
+#O; Codice; Titolo; Descrizione; Num. Preferenze; Opzione 1; [...] ; Opzione N
+
+# ESEMPIO
+#C; 1; Scheda 1; Scheda 1; 3; ABC00; ABC01 : 1; ABC02 : 2
+#C; 2; Scheda 2; Descrizione; 1; CF314 : 3
+#O; 3; Scheda 3; Referendum; 1; Sì; No
+#------------------------------------------------------
+C;1;Mejor jugador;Cual es el mejor jugador del torneo;1;C21L1;C22L1;C23L1
+C;2;Jugador revelacion;Cual es el jugador revelacion;3;C21L2;C22L2;C23L2
+O;3;Felix;Te gusta Felix Auger Aliassiame;1;SI;NO
+O;4;Tenis;Te gusta el tenis;1;SI;NO

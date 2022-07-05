@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="procmgr.app.App" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/app/App.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="77" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="procmgr.controller.Controller" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="600" y="255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="procmgr.controller.PMDB" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/PMDB.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="396" y="806"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="procmgr.controller.csvparsers.BallotsParser" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/csvparsers/BallotsParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1274" y="270"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="procmgr.controller.csvparsers.CSVParser" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/csvparsers/CSVParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2034" y="90"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="procmgr.controller.csvparsers.SessionsParser" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/csvparsers/SessionsParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1670" y="320"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="procmgr.controller.csvparsers.CandidatesParser" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/csvparsers/CandidatesParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2235" y="458"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="procmgr.controller.csvparsers.VotersParser" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/controller/csvparsers/VotersParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2562" y="277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="procmgr.model.ProcedureManager" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/model/ProcedureManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="836" y="589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="10" language="java" name="procmgr.model.TipoStaff" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/model/TipoStaff.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1408" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="procmgr.model.ProcedurePM" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/model/ProcedurePM.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1832" y="1028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="procmgr.model.VotingTerminals" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/model/VotingTerminals.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1237" y="810"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="procmgr.model.Terminal" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/model/Terminal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1018" y="1001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="procmgr.view.NoRoot" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/NoRoot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2786" y="1060"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="procmgr.view.Technic" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/Technic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2390" y="1176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="procmgr.view.Boot" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/Boot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2543" y="607"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="procmgr.view.Tipo" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/Tipo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1407" y="1214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="procmgr.view.View" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/View.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="825" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="procmgr.view.Login" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/Login.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2789" y="1378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="procmgr.view.Supervisor" project="ProcedureManager" 
+    file="/ProcedureManager/java/procmgr/view/Supervisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2745" y="821"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="21">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="22" name="newProcedure"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="25" name="postsIps"/>      
+      <multiplicity id="26" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="29" name="pm"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="33" name="pm"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="36">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="37" name="subStationsIps"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="40" name="newProcedure"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="43">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="44" name="pmDB"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="47" name="station"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="50" name="controller"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="53" name="value"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

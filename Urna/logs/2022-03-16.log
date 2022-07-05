@@ -1,0 +1,317 @@
+Wed Mar 16 12:15:29 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 12:15:30 CET 2022 - [INFO] L'urna è stata spenta.
+Wed Mar 16 12:15:34 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 12:15:40 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Mar 16 12:15:40 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Mar 16 12:15:45 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 12:16:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 12:16:03 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 12:16:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 12:16:04 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 12:17:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 12:17:15 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 12:17:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 12:17:16 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 12:28:49 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 12:28:49 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 12:28:49 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 12:28:50 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 16:03:03 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Station] è tornato OFFLINE.
+Wed Mar 16 16:03:18 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 16:03:19 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 16:03:19 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 16:03:20 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 16:24:18 CET 2022 - [INFO] L'urna è stata spenta.
+Wed Mar 16 16:24:38 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 16:24:45 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Mar 16 16:24:46 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Mar 16 16:41:41 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 16:41:56 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Mar 16 16:41:57 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Mar 16 16:44:51 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 16:46:41 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 16:47:19 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 16:47:19 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 16:47:58 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 16:48:33 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 16:49:32 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 16:49:32 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 16:49:46 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 16:50:18 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 16:58:59 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 17:00:11 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 17:46:05 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 17:46:12 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Mar 16 17:46:13 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Mar 16 17:46:33 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 17:46:35 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 17:46:35 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 17:46:58 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 17:47:03 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 17:47:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 17:47:05 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 17:47:43 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 17:47:47 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 17:47:47 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 17:47:48 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 17:48:11 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 17:48:19 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 17:52:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 17:52:11 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 18:02:47 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha richiesto di cercare votanti.
+Wed Mar 16 18:02:52 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 18:03:08 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha richiesto di cercare votanti.
+Wed Mar 16 18:03:22 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 18:08:26 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 18:26:31 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 18:34:11 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 18:34:15 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 18:34:21 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 18:34:25 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 18:48:19 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Post] è tornato OFFLINE.
+Wed Mar 16 18:49:08 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 18:49:10 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 18:49:14 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 18:49:19 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 19:10:52 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:10:55 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:13:27 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:13:30 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:16:37 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:16:49 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:17:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha richiesto di cercare votanti.
+Wed Mar 16 19:17:06 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 19:18:10 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:18:12 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:19:21 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha richiesto di cercare votanti.
+Wed Mar 16 19:19:23 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 19:20:12 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:20:16 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:25:15 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:25:18 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:25:29 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:25:46 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Subquery returns more than 1 row
+Wed Mar 16 19:27:42 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:28:04 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:28:18 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:28:48 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:29:12 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:30:07 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:30:19 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:32:04 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:32:16 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:33:26 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:33:33 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:34:14 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:35:49 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:37:36 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:37:50 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:38:05 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:38:27 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:38:40 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:39:40 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:39:53 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:41:48 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 19:45:37 CET 2022 - [WARNING] Sessione [ID: 1] appartenente alla procedura [ID: 3] terminata.
+Wed Mar 16 19:45:39 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:45:41 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 19:45:42 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Post].
+Wed Mar 16 19:46:27 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 19:46:36 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 19:46:40 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 19:46:40 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 19:46:47 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 19:46:54 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 19:46:54 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 19:46:54 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 19:46:55 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 19:46:59 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 19:46:59 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 19:46:59 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 19:47:00 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 19:47:56 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V1S1] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 19:47:56 CET 2022 - [ERROR] L'aggiornamento dell'utente [ID: V1S1], richiesto dal seggio [IP: 127.0.0.1], NON è andato a buon fine: Impossibile abilitare l'utente al voto: l'ID V1S1 non esiste
+Wed Mar 16 19:48:05 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V1] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 19:48:05 CET 2022 - [ERROR] L'aggiornamento dell'utente [ID: V1], richiesto dal seggio [IP: 127.0.0.1], NON è andato a buon fine: Impossibile abilitare l'utente al voto: l'ID V1 non esiste
+Wed Mar 16 19:48:31 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 19:48:31 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 19:48:42 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: v22] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 19:48:42 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: v22], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 19:48:55 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:48:55 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:49:28 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:49:29 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:49:36 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:49:36 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Subquery returns more than 1 row
+Wed Mar 16 19:50:16 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:50:16 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:50:30 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:50:30 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Non è stato concordato alcun nonce con il terminale Post con ip:127.0.0.1
+Wed Mar 16 19:50:47 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:50:47 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:51:12 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:51:12 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:51:17 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:51:17 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Subquery returns more than 1 row
+Wed Mar 16 19:54:44 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:54:44 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:55:18 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:55:18 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:56:13 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:56:31 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:57:20 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:57:20 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 19:57:53 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 19:57:53 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 19:58:05 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 19:59:17 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Wed Mar 16 19:59:51 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 19:59:51 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:00:18 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:00:18 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:00:30 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 20:00:35 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Subquery returns more than 1 row
+Wed Mar 16 20:07:53 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:07:53 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:08:24 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:08:24 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:08:33 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 20:08:40 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Subquery returns more than 1 row
+Wed Mar 16 20:09:54 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:09:54 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:10:19 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:10:20 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:10:28 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V22]
+Wed Mar 16 20:10:35 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V22] non sono stati memorizzati: Unknown column 'NonceDiscrim' in 'field list'
+Wed Mar 16 20:13:41 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:13:41 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:14:06 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:14:06 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:14:15 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21]
+Wed Mar 16 20:14:21 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V21] non sono stati memorizzati: Data truncation: Data too long for column 'encryptedKey' at row 1
+Wed Mar 16 20:17:36 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:17:37 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:18:11 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:18:11 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:18:21 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23]
+Wed Mar 16 20:18:29 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V23] non sono stati memorizzati: Data truncation: Data too long for column 'encryptedIV' at row 1
+Wed Mar 16 20:19:26 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:19:26 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:19:52 CET 2022 - [INFO] La postazione [IP: /127.0.0.1] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Wed Mar 16 20:19:53 CET 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.1] sono stati correttamente generati ed inviati.
+Wed Mar 16 20:19:59 CET 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V22]
+Wed Mar 16 20:20:05 CET 2022 - [ERROR] I voti ricevuti dal seggio [IP: /127.0.0.1], provenienti dalla postazione [IP: /127.0.0.1] e relativi al votante [ID: V22] non sono stati memorizzati: Data truncation: Data too long for column 'signature' at row 1
+Wed Mar 16 20:21:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 20:21:15 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 20:21:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:21:16 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 20:21:48 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 20:21:48 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 20:21:50 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:21:51 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:22:16 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Post] è tornato OFFLINE.
+Wed Mar 16 20:22:29 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 20:22:29 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 20:22:29 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:22:29 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 20:22:42 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Station] è tornato OFFLINE.
+Wed Mar 16 20:22:44 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Post] è tornato OFFLINE.
+Wed Mar 16 20:22:49 CET 2022 - [INFO] L'urna è stata spenta.
+Wed Mar 16 20:23:07 CET 2022 - [INFO] L'urna è stata avviata.
+Wed Mar 16 20:23:25 CET 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Wed Mar 16 20:23:25 CET 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Wed Mar 16 20:23:29 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 20:23:39 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 20:23:39 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 20:23:39 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:23:40 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 20:24:03 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 20:24:04 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 20:24:04 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:24:04 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 20:24:18 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 20:24:19 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 20:24:19 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:24:19 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 20:24:35 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 20:24:35 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 20:24:45 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:24:46 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:25:55 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Post].
+Wed Mar 16 20:26:04 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 20:26:04 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 20:26:04 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:26:05 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 20:26:20 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:26:20 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:26:32 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:26:32 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:27:03 CET 2022 - [WARNING] Sessione [ID: 1] appartenente alla procedura [ID: 3] terminata.
+Wed Mar 16 20:27:05 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Post].
+Wed Mar 16 20:27:05 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: SubStation].
+Wed Mar 16 20:27:07 CET 2022 - [WARNING] Ricevuta richiesta di verifica autenticazione da un terminale sconosciuto [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:27:12 CET 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 3] avviata.
+Wed Mar 16 20:27:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 20:27:15 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 20:27:15 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:27:16 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 20:27:24 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 20:27:24 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 20:27:24 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:27:25 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 20:27:40 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 20:27:40 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 20:27:40 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:27:41 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 20:28:02 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V22] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 20:28:02 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V22], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 20:28:08 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:28:08 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:28:17 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:28:17 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:29:23 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:29:23 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:29:50 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Station] è tornato OFFLINE.
+Wed Mar 16 20:29:50 CET 2022 - [WARNING] Il terminale [IP: /127.0.0.1, Tipo: Post] è tornato OFFLINE.
+Wed Mar 16 20:33:39 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 20:33:39 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 20:33:40 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:33:40 CET 2022 - [ERROR] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] NON è andata a buon fine: Non è stato trovato alcun seggio relativo al terminale postazione con indirizzo ip:127.0.0.1
+Wed Mar 16 20:34:45 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] richiede all'urna di autenticarsi.
+Wed Mar 16 20:34:45 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Post] e ha lanciato una nuova sfida.
+Wed Mar 16 20:34:45 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:34:46 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Post] è andata a buon fine.
+Wed Mar 16 20:34:57 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Wed Mar 16 20:34:57 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Wed Mar 16 20:34:57 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:34:58 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Wed Mar 16 20:35:05 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Wed Mar 16 20:35:06 CET 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Wed Mar 16 20:35:06 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Wed Mar 16 20:35:06 CET 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Wed Mar 16 20:35:32 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V22] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 20:35:33 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V22], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 20:35:39 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:35:39 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:36:02 CET 2022 - [INFO] Ricevuta richiesta di aggiornamento di un utente [ID: V21] dal seggio [IP: 127.0.0.1].
+Wed Mar 16 20:36:03 CET 2022 - [SUCCESS] L'aggiornamento dell'utente [ID: V21], richiesto dal seggio [IP: 127.0.0.1], è andato a buon fine.
+Wed Mar 16 20:36:06 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:36:06 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].
+Wed Mar 16 20:40:22 CET 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha richiesto di cercare votanti.
+Wed Mar 16 20:40:22 CET 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: Station].

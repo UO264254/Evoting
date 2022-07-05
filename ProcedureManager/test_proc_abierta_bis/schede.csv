@@ -1,0 +1,15 @@
+# SCHEDE
+#C; Codice; Titolo; Descrizione; Num. Preferenze; Cod. Candidato 1 [: Cod. Lista]; [...] ; Cod. Candidato N [: Cod. Lista]
+#O; Codice; Titolo; Descrizione; Num. Preferenze; Opzione 1; [...] ; Opzione N
+
+# ESEMPIO
+#C; 1; Scheda 1; Scheda 1; 3; ABC00; ABC01 : 1; ABC02 : 2
+#C; 2; Scheda 2; Descrizione; 1; CF314 : 3
+#O; 3; Scheda 3; Referendum; 1; Sì; No
+#------------------------------------------------------
+C;1;Delegado de la clase;Mejor delegado;1;C31L1;C33L2;C32L3
+C;2;Subdelegado de la clase;Mejor subdelegado;1;C31L3;C32L3
+O;3;ExDelegado;Consideras buena la anterior gestion del exdelegado;1;SI;NO
+O;4;ExSubdelegado;Consideras buena la anterior gestion del exsubdelegado;1;SI;NO
+
+

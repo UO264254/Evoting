@@ -1,0 +1,11 @@
+#VOTANTI
+#ID Votante; Nome; Cognome; Email ; Codice Scheda 1, ..., Codice Scheda N; Data di Nascita (Formato: gg/mm/aaaa o NULL)
+
+# ESEMPIO
+#ABC00; Nome1; Cognome1; 1,2; 01/01/1970
+#ABC01; Nome2; Cognome2; 3; NULL
+#CF314; Pi; Greco; 1,3; 14/03/1970
+#------------------------------------------------------
+V01;Alejandro;Alvarez;alejobgr@gmail.com;1,2,3,4;01/01/1999
+V02;Lucia;Moro;alejobgr@gmail.com;1,2,3,4;01/02/1999
+V03;Antonio;Novo;;1,2,3,4;01/03/1999

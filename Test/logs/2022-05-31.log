@@ -1,0 +1,21 @@
+Tue May 31 12:08:49 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 12:08:49 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Tue May 31 12:08:49 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Tue May 31 12:08:49 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Tue May 31 12:08:54 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Tue May 31 12:08:54 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 12:08:54 CEST 2022 - [INFO] El puesto [IP: /127.0.0.1] solicitó generar nuevos nonce para enviar votos cifrados.
+Tue May 31 12:08:54 CEST 2022 - [INFO] Los nonce requeridos por el puesto [IP: /127.0.0.1] se han generado y enviado correctamente.
+Tue May 31 12:08:54 CEST 2022 - [INFO] Votos cifrados recibidos por el puesto [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test]
+Tue May 31 12:08:54 CEST 2022 - [SUCCESS] Los votos recibidos por la mesa [IP: /127.0.0.5], desde la ubicación [IP: /127.0.0.1] y relativas al votante [ID: Test] se han almacenado correctamente.
+Tue May 31 12:08:54 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 12:08:54 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 12:09:04 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 12:09:14 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 13:43:47 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 13:43:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] requiere que la urna se autentifique.
+Tue May 31 13:43:47 CEST 2022 - [INFO] La urna respondió al desafío lanzado desde la terminal [IP: 127.0.0.1, tipo: Post] y lanzó un nuevo desafío.
+Tue May 31 13:43:47 CEST 2022 - [INFO] El terminal [IP: 127.0.0.1, tipo: Post] autentificó la urna y respondió a su desafío de autentificarse.
+Tue May 31 13:43:52 CEST 2022 - [SUCCESS] Autenticación del terminal [IP: 127.0.0.1, tipo: Post] ha tenido éxito.
+Tue May 31 13:43:52 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue May 31 13:44:04 CEST 2022 - [INFO] L'urna è stata spenta.

@@ -1,0 +1,52 @@
+Tue Apr 12 12:34:06 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 12 12:34:15 CEST 2022 - [INFO] Un nuovo utente [Username: supervisor] sta provando ad effettuare login.
+Tue Apr 12 12:34:15 CEST 2022 - [SUCCESS] L'utente [Username: supervisor] ha completato le operazioni di login.
+Tue Apr 12 13:18:49 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 13:18:54 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 12 13:19:07 CEST 2022 - [INFO] Un nuovo utente [Username: supervisor] sta provando ad effettuare login.
+Tue Apr 12 13:19:07 CEST 2022 - [SUCCESS] L'utente [Username: supervisor] ha completato le operazioni di login.
+Tue Apr 12 13:19:16 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 13:22:20 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 12 13:22:56 CEST 2022 - [INFO] Un nuovo utente [Username: supervisor] sta provando ad effettuare login.
+Tue Apr 12 13:22:56 CEST 2022 - [ERROR] L'utente [Username: supervisor] ha inserito credenziali di login non valide.
+Tue Apr 12 13:23:04 CEST 2022 - [INFO] Un nuovo utente [Username: supervisor] sta provando ad effettuare login.
+Tue Apr 12 13:23:04 CEST 2022 - [SUCCESS] L'utente [Username: supervisor] ha completato le operazioni di login.
+Tue Apr 12 13:23:08 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 12 13:23:52 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 13:23:52 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 13:26:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 13:26:38 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 13:29:13 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 13:29:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 13:29:17 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 13:29:18 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: Station] è andata a buon fine.
+Tue Apr 12 13:43:39 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 15:54:10 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 12 15:54:19 CEST 2022 - [INFO] Un nuovo utente [Username: supervisor] sta provando ad effettuare login.
+Tue Apr 12 15:54:19 CEST 2022 - [ERROR] L'utente [Username: supervisor] ha inserito credenziali di login non valide.
+Tue Apr 12 15:54:30 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 12 15:54:30 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 12 15:54:36 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 12 15:56:04 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 15:56:04 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 15:56:26 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 15:56:26 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 15:56:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 15:56:29 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 15:57:15 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 15:57:15 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 15:59:05 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 15:59:05 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:04:41 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:04:41 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:05:47 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:05:47 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:08:35 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:08:35 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:08:47 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:08:47 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:09:32 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:09:32 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 16:10:53 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 16:10:54 CEST 2022 - [ERROR] Errore durante la comunicazione col terminale [IP: 127.0.0.1, Tipo: Station]: Impossibile trovare una chiave di sessione
+Tue Apr 12 17:02:55 CEST 2022 - [INFO] L'urna è stata spenta.

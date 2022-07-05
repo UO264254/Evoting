@@ -1,0 +1,575 @@
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:16 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: ID]
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: ID] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:21 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:23 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:23 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:23 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:27 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:27 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:27 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:27 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:28 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:28 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:28 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:28 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:29 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:29 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:29 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo0]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo0] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo1]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo1] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo2]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo2] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo3]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo3] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo4]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo4] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo5]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo5] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo6]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo6] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo7]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo7] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo8]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo8] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo9]
+Tue Apr 12 12:37:34 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo9] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:34 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo10]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo10] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo11]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo11] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo12]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo12] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo13]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo13] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo14]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo14] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo15]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo15] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo16]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo16] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo17]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo17] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo18]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo18] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo19]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo19] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo20]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo20] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo21]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo21] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo22]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo22] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo23]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo23] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo24]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo24] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo25]
+Tue Apr 12 12:37:35 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo25] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:35 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo26]
+Tue Apr 12 12:37:36 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo26] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo27]
+Tue Apr 12 12:37:36 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo27] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo28]
+Tue Apr 12 12:37:36 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo28] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo29]
+Tue Apr 12 12:37:36 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo29] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:36 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:36 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:36 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:36 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:36 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:36 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:37 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:37 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:37 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha richiesto di cercare votanti.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.5, Tipo: Station].
+Tue Apr 12 12:37:42 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha richiesto di cercare votanti.
+Tue Apr 12 12:37:42 CEST 2022 - [SUCCESS] Restituiti 3 risultati al terminale [IP: 127.0.0.1, Tipo: SubStation].
+Tue Apr 12 12:37:42 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:42 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:42 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:42 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:43 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:43 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:43 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:43 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:43 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:44 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:44 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:44 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:48 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:48 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo21]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo21] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo20]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo20] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo0]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo0] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo19]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo19] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo18]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo18] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo17]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo17] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo16]
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo16] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo14]
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo14] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo15]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo15] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo13]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo13] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo11]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo11] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo12]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo12] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo10]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo10] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo8]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo8] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo9]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo9] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo7]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo7] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo5]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo5] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo6]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo6] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo4]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo4] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo3]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo3] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo2]
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo2] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo1]
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:49 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo1] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:49 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo28]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo28] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo29]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo29] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo27]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo27] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo25]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo25] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo26]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo26] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] La postazione [IP: /127.0.0.20] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.20] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] La postazione [IP: /127.0.0.18] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.18] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo24]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo24] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo22]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.18] e relativi al votante [ID: Bernardo22] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo23]
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.20] e relativi al votante [ID: Bernardo23] sono stati correttamente memorizzati.
+Tue Apr 12 12:37:50 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:50 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:50 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:50 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:50 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:50 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:51 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:51 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:51 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:55 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:55 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:37:55 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:55 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:55 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:37:56 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:37:56 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:37:56 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:56 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:56 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:37:57 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:37:58 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:37:58 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:37:58 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:02 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:38:02 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo-1]
+Tue Apr 12 12:38:02 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo-1] sono stati correttamente memorizzati.
+Tue Apr 12 12:38:02 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:02 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:02 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:03 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:38:03 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:38:03 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:03 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:03 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:03 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:38:04 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:04 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:04 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:09 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:38:09 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:38:09 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:09 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:09 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:09 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:38:10 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:38:10 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:10 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:10 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:38:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:14 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:14 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:14 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:15 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:38:15 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:38:15 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:15 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:15 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:15 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:38:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:16 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:16 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:21 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] La postazione [IP: /127.0.0.19] ha richiesto di generare nuovi nonce per l'invio di voti cifrati.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Gli nonce richiesti dalla postazione [IP: /127.0.0.19] sono stati correttamente generati ed inviati.
+Tue Apr 12 12:38:21 CEST 2022 - [INFO] Ricevuti voti cifrati dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo]
+Tue Apr 12 12:38:21 CEST 2022 - [SUCCESS] I voti ricevuti dal seggio [IP: 127.0.0.5/127.0.0.5], provenienti dalla postazione [IP: /127.0.0.19] e relativi al votante [ID: Bernardo] sono stati correttamente memorizzati.
+Tue Apr 12 12:38:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:21 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:21 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:38:22 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:38:22 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:22 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:22 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:22 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:38:23 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:23 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:23 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:27 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 12:38:28 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:38:28 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 12:38:28 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:28 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:28 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 12:38:28 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 12:38:29 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 12:48:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:48:14 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:48:14 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:48:14 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 12:48:44 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:48:44 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:48:44 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:48:48 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:48:51 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:48:51 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:48:51 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:48:51 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:48:52 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 12:48:52 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 12:48:52 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:48:52 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 12:54:27 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] richiede all'urna di autenticarsi.
+Tue Apr 12 12:54:27 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.5, Tipo: Station] e ha lanciato una nuova sfida.
+Tue Apr 12 12:57:06 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.5, Tipo: Station] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 12:57:06 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.5, Tipo: Station] è andata a buon fine.
+Tue Apr 12 13:13:10 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 13:13:10 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.18, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 13:13:10 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.18, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 13:13:15 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.18, Tipo: Post] è andata a buon fine.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.19, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.19, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.19, Tipo: Post] è andata a buon fine.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] richiede all'urna di autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.20, Tipo: Post] e ha lanciato una nuova sfida.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.20, Tipo: Post] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.20, Tipo: Post] è andata a buon fine.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] richiede all'urna di autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] L'urna ha risposto alla sfida lanciata dal terminale [IP: 127.0.0.1, Tipo: SubStation] e ha lanciato una nuova sfida.
+Tue Apr 12 13:13:38 CEST 2022 - [INFO] Il terminale [IP: 127.0.0.1, Tipo: SubStation] ha autenticato l'urna e ha risposto alla sua sfida per autenticarsi.
+Tue Apr 12 13:13:38 CEST 2022 - [SUCCESS] L'autenticazione del terminale [IP: 127.0.0.1, Tipo: SubStation] è andata a buon fine.
+Tue Apr 12 13:13:38 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.18, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 13:13:38 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.19, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 13:13:38 CEST 2022 - [WARNING] Il terminale [IP: /127.0.0.20, Tipo: Post] è tornato OFFLINE.
+Tue Apr 12 13:13:38 CEST 2022 - [WARNING] Il terminale [IP: 127.0.0.5/127.0.0.5, Tipo: Station] è tornato OFFLINE.
+Tue Apr 12 13:13:40 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 12 15:42:37 CEST 2022 - [INFO] L'urna è stata spenta.

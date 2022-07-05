@@ -1,0 +1,64 @@
+Tue Apr 19 16:31:31 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 16:31:44 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 16:31:45 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 16:48:35 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 16:48:39 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 16:48:43 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 16:48:44 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 16:57:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 16:57:57 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 16:58:04 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 16:58:04 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 17:04:01 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 17:04:06 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 17:04:06 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 17:23:36 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 17:23:41 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 17:23:45 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 17:23:46 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 17:23:53 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 18:27:25 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 18:27:30 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 18:27:34 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 18:27:35 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 18:27:42 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 18:49:27 CEST 2022 - [WARNING] Sessione [ID: 1] appartenente alla procedura [ID: 1] terminata.
+Tue Apr 19 18:49:32 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 18:53:23 CEST 2022 - [WARNING] L'utente [Username: null] ha effettuato il logout.
+Tue Apr 19 18:53:31 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 18:53:31 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 18:53:36 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:00:12 CEST 2022 - [WARNING] L'utente [Username: null] ha effettuato il logout.
+Tue Apr 19 19:00:17 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 19:00:17 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 19:00:21 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:00:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 19:00:43 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 19:00:49 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 19:00:50 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 19:00:55 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:00:59 CEST 2022 - [WARNING] El usuario [Nombre de usuario: null"] ha iniciado sesión."
+Tue Apr 19 19:01:03 CEST 2022 - [INFO] Un nuovo utente [Username: U1] sta provando ad effettuare login.
+Tue Apr 19 19:01:03 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 19:01:08 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:26:51 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 19:26:54 CEST 2022 - [INFO] L'urna è stata avviata.
+Tue Apr 19 19:26:59 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1"] está intentando iniciar sesión."
+Tue Apr 19 19:27:00 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 19:27:04 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:30:37 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 19:31:04 CEST 2022 - [INFO] La urna está en marcha.
+Tue Apr 19 19:31:10 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1"] está intentando iniciar sesión."
+Tue Apr 19 19:31:10 CEST 2022 - [SUCCESS] L'utente [Username: U1] ha completato le operazioni di login.
+Tue Apr 19 19:31:14 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:42:18 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 19:42:22 CEST 2022 - [INFO] La urna está en marcha.
+Tue Apr 19 19:42:27 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1"] está intentando iniciar sesión."
+Tue Apr 19 19:42:27 CEST 2022 - [SUCCESS] El usuario [Nombre de usuario: U1"] ha completado las operaciones de inicio de sesión
+Tue Apr 19 19:42:31 CEST 2022 - [SUCCESS] Sessione [ID: 1] appartenente alla procedura [ID: 1] avviata.
+Tue Apr 19 19:56:08 CEST 2022 - [INFO] L'urna è stata spenta.
+Tue Apr 19 19:56:12 CEST 2022 - [INFO] La urna está en marcha.
+Tue Apr 19 19:56:16 CEST 2022 - [INFO] Un nuevo usuario [Nombre de usuario: U1"] está intentando iniciar sesión."
+Tue Apr 19 19:56:16 CEST 2022 - [SUCCESS] El usuario [Nombre de usuario: U1"] ha completado las operaciones de inicio de sesión
+Tue Apr 19 19:56:20 CEST 2022 - [SUCCESS] Sesión [ID: 1] perteneciente al procedimiento [ID:  1] iniciado.
+Tue Apr 19 19:56:29 CEST 2022 - [INFO] L'urna è stata spenta.
